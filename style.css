@@ -1,0 +1,17 @@
+.cabeçalho{background-color: rgba(31, 31, 119, 0.956);
+text-align: center;
+color: white;}
+
+.rodape{background-color: rgba(31, 31, 119, 0.956);
+color: white;
+font-size: 20px; }
+
+#copyright{padding-right: 69%;}
+
+.S-Top{font-family:Arial;
+       color: red; background-color: rgba(205, 199, 199, 0.888)}
+
+.S-Low{background-color: bisque;
+       font-family:Cambria}
+
+p{font-size: 20px;}
